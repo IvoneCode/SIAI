@@ -1,0 +1,19 @@
+# Bases de datos
+*.sqlite
+*.sqlite3
+*.db
+
+# Credenciales
+admin.json
+.env
+.env.*
+
+# Respaldos
+Respaldo/
+*.bak
+*.rar
+*.zip
+
+# Archivos temporales
+*.log
+*.tmp
